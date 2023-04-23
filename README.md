@@ -1,13 +1,13 @@
-# static-website
---------------
+# Static Website
+
 
 Used for my labs and personal website.
 
 
-License
-----------------------
+# License
 
-This static website is based on the Dimension template by [HTML5 UP](https://html5up.net/)
+
+This static website is based on the template by [HTML5 UP](https://html5up.net/)
 
 Creative Commons License
 All of the site templates I create for [HTML5 UP](https://html5up.net/) are licensed under the Creative Commons Attribution 3.0 License, which means you can:
