@@ -1,6 +1,4 @@
 # static-website
-
-Static Website
 --------------
 
 Used for my labs and personal website.
